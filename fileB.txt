@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is file B 
+=======
+"This is file B" 
+Fast forward change 
+>>>>>>> fastforward
+Master branch change 

@@ -1,1 +1,2 @@
 This is file A 
+Three way branch change 
