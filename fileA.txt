@@ -1,2 +1,1 @@
-"This is file A" 
-"Fast forward change" 
+This is file A 
